@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the lamented death of Her Most Excellent Majesty, Queen Mary by J. Rawson ...</title>
+            <author>Rawson, Joseph, 1664-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58150</idno>
+            <idno type="STC">Wing R378_VARIANT</idno>
+            <idno type="STC">ESTC R13636</idno>
+            <idno type="EEBO-CITATION">13021334</idno>
+            <idno type="OCLC">ocm 13021334</idno>
+            <idno type="VID">96631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 398:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the lamented death of Her Most Excellent Majesty, Queen Mary by J. Rawson ...</title>
+                  <author>Rawson, Joseph, 1664-1719.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing lists title as: Poems on the late lamented death of ... Queen Mary.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96631:1"/>
+            <pb facs="tcp:96631:1"/>
+            <p>ON THE LAMENTED DEATH OF Her Moſt Excellent Majeſty, Queen MARY.</p>
+            <p>By <hi>J. Rawſon,</hi> M. A.</p>
+            <q>
+               <lg>
+                  <l>—O Ded certe!</l>
+               </lg>
+               <lg>
+                  <l>—Manibus date lilia plenis:</l>
+                  <l>Purpureos ſpargam flores, animamque <hi>Mariae</hi>
+                  </l>
+                  <l>His ſaltem accumulem donis, &amp; fungar inani</l>
+                  <l>Munere—</l>
+               </lg>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St.
+<hi>Pauls</hi> Church-yard, 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="eng" type="poem">
+            <pb facs="tcp:96631:2"/>
+            <pb n="1" facs="tcp:96631:2"/>
+            <head>ON THE DEATH of the QUEEN.</head>
+            <lg>
+               <l>OH! 'tis too true!—Our Senſes lay amaz'd;</l>
+               <l>Like men but newly wak'd we wildly gaz'd:</l>
+               <l>Such ſtrokes of Fate at the firſt proſpect ſeem</l>
+               <l>Diſorders only of ſome frightful Dream.</l>
+               <l>'Tis true—the ſighing Nations ſpeak no leſs;</l>
+               <l>Too true—the mournful Kingdoms this confeſs.</l>
+               <l>Their Hands, their Eyes, their every drooping Head,</l>
+               <l>Too plainly tell—<hi>The Queen, The Queen is Dead!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>She's dead, nor cou'd our vows effectual prove,</l>
+               <l>Fate had reſolv'd <hi>our Bleſſing</hi> to remove.</l>
+               <l>Cou'd Prayr's, cou'd thouſand Hecatombs attone</l>
+               <l>Never <hi>Maria,</hi> hadſt thou from us gone.</l>
+               <l>Heaven was ungentle, Fate was too ſevere,</l>
+               <l>To a whole Nations ſighs to lend no pitying ear.</l>
+            </lg>
+            <lg>
+               <l>The day on which thy Death we firſt deplore,</l>
+               <l>To <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nnocence</hi> was ſacred once
+before,</l>
+               <l>But now on thy account it ſhall be more.</l>
+            </lg>
+            <lg>
+               <l>To raging Grief, like ours, 'tis ſome allay</l>
+               <l>To tell the ſtory of that fatal day.</l>
+               <l>But oh! what artful Muſe can paint our fears,</l>
+               <l>Our Sighs and Vows, and our repeated Prayers,</l>
+               <l>Our Hearts with Sorrow fill'd, our Eyes with Tears?</l>
+               <l>How does the Prieſt to the throng'd Alter fly,</l>
+               <l>So <hi>ſhe</hi> might live, himſelf content to dye!</l>
+               <l>His trembling Pulſe its motions takes from hers,</l>
+               <l>And he <hi>her</hi> ſafety to his own prefers.</l>
+               <l>Art ſtands amaz'd and finds it ſelf outdone,</l>
+               <l>
+                  <hi>Apollo</hi>'s sons their want of power own.</l>
+               <l>
+                  <pb n="2" facs="tcp:96631:3"/>The Souldier weeps, nor is aſham'd of
+Tears,</l>
+               <l>Inglorious on all accounts but hers.</l>
+               <l>Nay <hi>William</hi>'s ſelf, whom danger ne're could fright,</l>
+               <l>Trembles, and Shrinks, at the amazing ſight:</l>
+               <l>Undaunted <hi>He,</hi> the <hi>Gallick Thunder</hi> ſees;</l>
+               <l>Death he has vanquiſh't in all Shapes but this.</l>
+               <l>Hardy, and Fearleſs as Romances e're</l>
+               <l>Suppos'd their Heroes and their Lovers were;</l>
+               <l>He ſhakes, he ſinks, he dyes, the <hi>Heroe</hi> fails;</l>
+               <l>Brave tho he be, the tender part prevails.</l>
+               <l>
+                  <hi>Achilles</hi> ſo, his lov'd <hi>Briſeis</hi> gone,</l>
+               <l>Suſpends his Courage, and his Arms lays down.</l>
+               <l>The <hi>Lords</hi> now mute are grown, the <hi>Commons</hi> ſo,</l>
+               <l>Yet both give comfort, tho they want it too.</l>
+            </lg>
+            <lg>
+               <l>Cruel diſeaſe! ſtill fatal to the beſt,</l>
+               <l>To all that's fair, an enemy profeſt.</l>
+               <l>Thy rage attacks the ſeat of Beauty ſtill,</l>
+               <l>And does or rudely ſpoil, or fiercely kill:</l>
+               <l>Envy and Death combin'd, no more could do,</l>
+               <l>Here thou haſt ruin'd, and haſt murther'd too;</l>
+               <l>Here thou haſt kill'd, the <hi>Great,</hi> the <hi>Good,</hi> the <hi>Fair,</hi>
+               </l>
+               <l>Her thou haſt kill'd, whom all things elſe would ſpare.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O Queen—</hi>
+               </l>
+               <l>Does angry Heav'n and unrelenting Fate</l>
+               <l>Deſign ſome <hi>Publick Criſis</hi> to our State,</l>
+               <l>And did they only for thy abſence wait?</l>
+               <l>Too good in our Calamities to ſhare,</l>
+               <l>
+                  <hi>Thee,</hi> the <hi>Deſtroying Angel</hi> was to ſpare,</l>
+               <l>Heav'n could do nothing here, till thou waſt there.</l>
+            </lg>
+            <lg>
+               <l>Bleſt Saint! could'ſt thou from thy celeſtial ſeat</l>
+               <l>See the ſad face of our afflicted ſtate;</l>
+               <l>If there be room for Grief and Pity there,</l>
+               <l>The joy of thoſe glad manſions 'twou'd impair.</l>
+            </lg>
+            <lg>
+               <l>But oh! avert our ſad miſgiving fears,</l>
+               <l>Enough of vengeance now, enough of Tears</l>
+               <l>In loſing <hi>Thee</hi> alone, our guilty Nation bears.</l>
+               <l>Still may thy Piety protect our Iſle,</l>
+               <l>Thy Guardian <hi>Genius</hi> on thy <hi>Heroe</hi> ſmile.</l>
+               <l>
+                  <pb n="3" facs="tcp:96631:3"/>His toils with Peace, his Arms with
+Conqueſt crown;</l>
+               <l>Inſpire his Councils, and ſecure his Throne:</l>
+               <l>And ſince this <hi>Atlas</hi> now alone does bear</l>
+               <l>Our Empires mighty weight—</l>
+               <l>Unite in <hi>Him</hi> thoſe Hearts which thou didſt ſhare,</l>
+               <l>And with a double Duty, ſoften double care.</l>
+            </lg>
+            <lg>
+               <l>And pardon <hi>Me,</hi> who thus in humble Verſe,</l>
+               <l>Attend a Mourner at thy Royal Hearſe</l>
+               <l>Thoſe few like <hi>Thee,</hi> who ſo much wonder raiſe,</l>
+               <l>'Tis ſcarce more hard to imitate, than praiſe.</l>
+               <l>In vain we ſtrive thy Vertues to commend,</l>
+               <l>In vain the reſt to equal <hi>Thee</hi> pretend.</l>
+               <l>In <hi>Thee,</hi> bright excellence, was centred all</l>
+               <l>Which we or Piety, or Virtue call;</l>
+               <l>In vain, would Poetry and Fancy riſe</l>
+               <l>To ſomewhat equal to <hi>MARIA</hi>'s Eyes;</l>
+               <l>And Wit, and Art, their Weakneſs muſt confeſs</l>
+               <l>If they pretend her goodneſs to expreſs.</l>
+               <l>Oh! ſhe was innocent as Angels are,</l>
+               <l>Chaſt, as thoſe happy Beings, and as Fair:</l>
+               <l>Adorn'd with Princely Virtues as with Blood;</l>
+               <l>As great as Heav'n could make her and as good.</l>
+               <l>Kind to eaeh miſerable wretches ſighs,</l>
+               <l>Not Charity had more propitious Eyes;</l>
+               <l>Oh! She gave all that miſery could crave</l>
+               <l>Scarce Heav'n it ſelf, more bountifully gave.</l>
+               <l>Hence 'tis we hear this Univerſal groan</l>
+               <l>Since the great Pattern of our Age is gone,</l>
+               <l>Sublime in Birth, in Beauty, and in State,</l>
+               <l>But more in dying <hi>Good,</hi> than living <hi>Great.</hi>
+               </l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb n="4" facs="tcp:96631:4"/>
+            <head>M. S.</head>
+            <lg>
+               <l>MAriae magnae Britanniae,</l>
+               <l>Hiberniae nec non Galliae Reginae</l>
+               <l>Optimae Maximae:</l>
+               <l>Non modo inter Reginas,</l>
+            </lg>
+            <lg>
+               <l>Sed &amp; <g ref="char:V">Ʋ</g>xores,</l>
+               <l>Sed &amp; Foeminas praeſtantiſſimae.</l>
+               <l>In cujus pectore, ſi ullibi, habitavit</l>
+               <l>Religio, Pietas, Miſericordia,</l>
+               <l>Et in Aula non inviſa ſolum</l>
+            </lg>
+            <lg>
+               <l>Sed inaudita, Humilitas,</l>
+               <l>Et quicquid in optimis ſaeculis</l>
+               <l>Honeſtum &amp; laude dignum audivit.</l>
+            </lg>
+            <lg>
+               <l>Quam pro dignitate laudare</l>
+               <l>Non poſſumus— <g ref="char:V">Ʋ</g>tinam poſſemus!</l>
+               <l>Hanc tamen ſemper deſiderandam,</l>
+               <l>Semper (Heu!) deflendam Anglis</l>
+            </lg>
+            <lg>
+               <l>Febris ardens, Eliae inſtar,</l>
+               <l>(Quam extinguere non poſſent lachrymarum flumina)</l>
+               <l>Die nunc duplici nomine Innocentiae ſacro,</l>
+               <l>In curru flammeo ad Coelum evexit.</l>
+            </lg>
+            <lg>
+               <l>Fruſtra, Lector, expectabis ſuſpiria,</l>
+               <l>Fruſtra, lachrymas,</l>
+               <l>Vulgaris indicia maeroris,</l>
+               <l>Ingentibus conficimur doloribus,</l>
+               <l>Minores loquaciores aliquando extiterunt.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96631:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
